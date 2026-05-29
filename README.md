@@ -33,18 +33,19 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 ## How it works
 
-User types a task in input field
-Clicks Add Task
-Task is added to the list
-User can mark it completed or delete it anytime
+- User types a task in input field
+- Clicks Add Task
+- Task is added to the list
+- User can mark it completed or delete it anytime
 
 ---
 
 ## Future Improvements
-Local storage support (save tasks)
-Drag & drop reordering
-Filters (All / Completed / Pending)
-Backend integration (MongoDB / Firebase)
+
+- Local storage support (save tasks)
+- Drag & drop reordering
+- Filters (All / Completed / Pending)
+- Backend integration (MongoDB / Firebase)
 
 ---
 
