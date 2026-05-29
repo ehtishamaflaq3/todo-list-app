@@ -1,21 +1,56 @@
-<<<<<<< HEAD
-# React + Vite
+# React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern Todo List application built using **React.js**.  
+This project helps users manage daily tasks with a clean UI and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+-  Add new tasks
+-  Mark tasks as completed
+-  Delete tasks
+-  Live date & time display
+-  Clean and responsive UI
+-  Fast and lightweight React app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# todo-list-app
-React Todo List App with clean UI, task management features, and local state handling. Users can add, complete, and delete tasks with a modern responsive interface.
->>>>>>> 7e306e711b36fe9ad160e2d7f65a2f7fd5880b1e
+<img width="1905" height="833" alt="image" src="https://github.com/user-attachments/assets/da729e66-9021-4e4f-a97a-e857d37f31d3" />
+
+---
+
+## Tech Stack
+
+- React.js (Frontend)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## How it works
+
+- User types a task in input field
+- Clicks Add Task
+- Task is added to the list
+- User can mark it completed or delete it anytime
+
+---
+
+## Future Improvements
+
+- Local storage support (save tasks)
+- Drag & drop reordering
+- Filters (All / Completed / Pending)
+- Backend integration (MongoDB / Firebase)
+
+---
+
+## Author
+
+Ehtisham Aflaq
+
+Built as a practice project to improve React skills
