@@ -18,7 +18,7 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 ## Preview
 
-![Todo App Screenshot](./screenshot.png)
+<img width="1905" height="833" alt="image" src="https://github.com/user-attachments/assets/da729e66-9021-4e4f-a97a-e857d37f31d3" />
 
 ---
 
@@ -51,8 +51,6 @@ Backend integration (MongoDB / Firebase)
 ## Author
 Ehtisham Aflaq
 Built as a practice project to improve React skills
-
-
 
 
 
