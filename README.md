@@ -3,8 +3,6 @@
 A simple and modern Todo List application built using **React.js**.  
 This project helps users manage daily tasks with a clean UI and smooth user experience.
 
----
-
 ## Features
 
 -  Add new tasks
@@ -14,8 +12,6 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 -  Clean and responsive UI
 -  Fast and lightweight React app
 
----
-
 ## Check Now
 
 <p align="center">
@@ -24,13 +20,9 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
   </a>
 </p>
 
----
-
 ## Preview
 
 <img width="1905" height="833" alt="image" src="https://github.com/user-attachments/assets/da729e66-9021-4e4f-a97a-e857d37f31d3" />
-
----
 
 ## Tech Stack
 
@@ -39,8 +31,6 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 - HTML5
 - CSS3
 
----
-
 ## How it works
 
 - User types a task in input field
@@ -48,16 +38,12 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 - Task is added to the list
 - User can mark it completed or delete it anytime
 
----
-
 ## Future Improvements
 
 - Local storage support (save tasks)
 - Drag & drop reordering
 - Filters (All / Completed / Pending)
 - Backend integration (MongoDB / Firebase)
-
----
 
 ## Author
 
