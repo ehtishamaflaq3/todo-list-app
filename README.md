@@ -16,6 +16,16 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 ---
 
+## Check Now
+
+<p align="center">
+  <a href="https://ehtitodoapp.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## Preview
 
 <img width="1905" height="833" alt="image" src="https://github.com/user-attachments/assets/da729e66-9021-4e4f-a97a-e857d37f31d3" />
