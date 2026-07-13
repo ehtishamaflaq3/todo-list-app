@@ -40,7 +40,7 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 ## Future Improvements
 
 - Local storage support (save tasks)
-- Drag & drop reordering
+- Drag and drop reordering
 - Filters (All / Completed / Pending)
 - Backend integration (MongoDB / Firebase)
 
