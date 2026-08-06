@@ -46,6 +46,6 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 ## Author
 
-Ehtisham Aflaq
+Ehtisham Aflaq.
 
 Built as a practice project to improve React skills.
