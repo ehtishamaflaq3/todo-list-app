@@ -1,7 +1,7 @@
 # React Todo List App
 
-A simple and modern Todo List application built using React.js  
-This project helps users manage daily tasks with a clean UI and smooth user experience
+A simple and modern Todo List application built using React.js.
+This project helps users manage daily tasks with a clean UI and smooth user experience.
 
 ## Features
 
