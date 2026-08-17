@@ -42,7 +42,7 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 - Local storage support (save tasks)
 - Drag and drop reordering
 - Filters (All / Completed / Pending)
-- Backend integration (MongoDB / Firebase)
+- Backend integration (MongoDB / Firebase).
 
 ## Author
 
