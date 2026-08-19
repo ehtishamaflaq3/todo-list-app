@@ -7,7 +7,7 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 -  Add new tasks
 -  Mark tasks as completed
--  Delete tasks
+-  Delete tasks.
 -  Live date & time display.
 -  Clean and responsive UI.
 
