@@ -27,7 +27,7 @@ This project helps users manage daily tasks with a clean UI and smooth user expe
 
 - React.js (Frontend)
 - JavaScript (ES6+)
-- HTML5
+- HTML5.
 - CSS3.
 
 ## How it works
